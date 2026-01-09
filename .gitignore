@@ -1,0 +1,60 @@
+# Файлы Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Выходные данные ячеек
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Среды окружения Python
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Операционные системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Файлы данных и кэша
+*.csv
+!small_data.csv  # если нужно сохранить маленькие CSV файлы
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.feather
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+dst-3.0_16_1_hh_database.csv
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Конфиденциальные данные
+*.env
+*.secret
+config.yaml
+config.yml
+secrets.json
+
+# Документация
+_build/
