@@ -7,13 +7,14 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)](https://pandas.pydata.org)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange?logo=plotly)](https://plotly.com)
 [![Colab](https://img.shields.io/badge/Colab-Run%20Project-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/digitalsequences/hh-resumes-data-analysis-python/blob/main/notebooks/hh-resumes-data-analysis-python.ipynb)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Visualizations-20B2AA?logo=github&logoColor=white)](https://digitalsequences.github.io/hh-resumes-data-analysis-python/)
 </div>
 
 ## 💫 Цель проекта
 Анализ данных для построения модели для автоматического определения примерного уровня заработной платы, подходящей пользователю, на основе информации из его резюме.
 
 
-## ℹ️ Описание данных
+## 🗂️ Описание данных
 
 ### [Основной датасет](https://drive.google.com/file/d/1Mub5r_-TAIeeomd-kqYQXxHWjSn1xkR0/view) 
 `dst-3.0_16_1_hh_database.csv`
@@ -48,8 +49,11 @@
 
 
 ## 📊 Интерактивные визуализации
+### В GitHub Pages:
+[![Open in GitHub Pages](https://img.shields.io/badge/Open%20in-GitHub%20Pages-0D8BF2?logo=github&logoColor=white)](https://digitalsequences.github.io/hh-resumes-data-analysis-python/)
 
-Все графики полностью интерактивны: масштабируйте, наводите для деталей, переключайте легенды. Откройте [HTML-файлы](visuals/interactive) для полного взаимодействия.
+Все графики полностью интерактивны: масштабируйте, наводите для деталей, переключайте легенды.
+
 
 ## 👀 Превью графиков
 ### 1. Распределение признака "Возраст"
